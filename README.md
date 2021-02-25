@@ -5,6 +5,7 @@ This program will convert your old Scrap Mechanic parts to the new and updated s
 ## Requirements:
 - .NET framework: https://dotnet.microsoft.com/download/dotnet-framework (Free)
 - Windows OS (Not the real thing :D)
+- Scrap Mechanic (Of course)
 
 ## How to install:
 - Download the file
