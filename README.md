@@ -1,5 +1,5 @@
 # Scrap Mechanic Creation Converter
-This program will convert your old scrap mechanic parts to the new and updated survival parts!
+This program will convert your old Scrap Mechanic parts to the new and updated survival parts!
 (It will change the LVL1 look to a LVL5)
 
 ## Requirements:
